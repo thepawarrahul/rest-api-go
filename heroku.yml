@@ -5,4 +5,4 @@ build:
     - go
 
 run:
-  web: web-service
+  web: web-service-gin

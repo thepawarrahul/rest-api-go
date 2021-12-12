@@ -1,1 +1,1 @@
-web: bin/web-service
+web: bin/web-service-gin
